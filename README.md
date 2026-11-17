@@ -1,16 +1,20 @@
-## Hi there 👋
+Olá, eu sou o Lucas Teixeira 👋
 
-<!--
-**lucasrteixeira-dev/lucasrteixeira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação (UNAMA) e de IA e Automação, em Belém, Pará. Meu objetivo é me tornar Engenheiro de IA, e estou construindo esse caminho na prática, projeto por projeto.
 
-Here are some ideas to get you started:
+🎯 Foco atual
+Automatizar tarefas repetitivas com Python
+Aprender os fundamentos de dados e machine learning
+Criar meus primeiros projetos usando IA generativa
+🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens: Python · SQL · JavaScript
+Web: HTML · CSS
+Ferramentas: Git · GitHub
+
+📂 Projetos
+Automação de Peças: automação em Python para (explique em uma linha o que ele faz)
+Automação de E-mails Corporativos: (explique em uma linha o que ele faz)
+📚 Aprendendo agora
+
+Análise de dados com pandas · Fundamentos de Machine Learning · APIs de IA
